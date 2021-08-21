@@ -1,0 +1,17 @@
+body{
+    background-color:darkgray;
+}
+button {
+    font-size: 0.8rem !important;
+    padding: 4px 0.5rem !important;
+  }
+  button:hover {
+    background: rgb(2, 243, 243);
+    color: rgb(195, 0, 255) !important;
+  td {
+    font-weight: bold;
+  }
+}
+table {
+  width: 50% !important;
+}
